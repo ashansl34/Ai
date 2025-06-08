@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_DEEPSEEK_API_KEY'; // Replace this with your actual API key
+const apiKey = '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'; // Replace this with your actual API key
 
 interface DeepSeekMessage {
   role: 'user' | 'assistant' | 'system';
